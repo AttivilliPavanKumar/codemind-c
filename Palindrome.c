@@ -1,6 +1,6 @@
-#include<stdio.h>  
-int main()    
-{    
+#include<stdio.h>
+int main()
+{
 int n,r,sum=0,temp;  
 scanf("%d",&n);    
 temp=n;    
